@@ -7,10 +7,10 @@ Role Variables
 --------------
 
 In the file vars/main.yml:
-lighthouse_vcs: https://github.com/VKCOM/lighthouse.git
-lighthouse_access_log_name: lighthouse_access
-lighthouse_location_dir: ~/home/lighthouse
-nginx_user_name: "root"
+* lighthouse_vcs: https://github.com/VKCOM/lighthouse.git
+* lighthouse_access_log_name: lighthouse_access
+* lighthouse_location_dir: ~/home/lighthouse
+* nginx_user_name: "root"
 
 Dependencies
 ------------
